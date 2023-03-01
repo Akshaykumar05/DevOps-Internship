@@ -12,3 +12,5 @@ This repo will contain internship related projects and content.
 4. **Improve network performance**: Firewalls can help to improve network performance by blocking traffic that is not needed, such as spam or other types of unwanted traffic.
 
 Overall, firewalls are an important part of a defense-in-depth security strategy and can help to protect a network from external threats and enforce security policies.
+
+### Features of Firewall
