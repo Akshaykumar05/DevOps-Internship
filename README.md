@@ -14,3 +14,8 @@ This repo will contain internship related projects and content.
 Overall, firewalls are an important part of a defense-in-depth security strategy and can help to protect a network from external threats and enforce security policies.
 
 ### Features of Firewall
+
+### Documentation on
+
+1. Why do we use firewall & features of firewall
+1. How are all the features in firewall implemented
