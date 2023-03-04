@@ -17,5 +17,8 @@ Overall, firewalls are an important part of a defense-in-depth security strategy
 
 ### Documentation on
 
-1. Why do we use firewall & features of firewall
+1. What is Firewall? Why do we use firewall & features of firewall
 1. How are all the features in firewall implemented
+
+### Firewall
+* A Firewall is a network security device that monitors and filters incoming and outgoing network traffic based on an organization's previously established security policies. At its most basic, a firewall is essentially the barrier that sits between a private internal network and the public Internet.
