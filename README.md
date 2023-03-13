@@ -22,3 +22,9 @@ Overall, firewalls are an important part of a defense-in-depth security strategy
 
 ### Firewall
 * A Firewall is a network security device that monitors and filters incoming and outgoing network traffic based on an organization's previously established security policies. At its most basic, a firewall is essentially the barrier that sits between a private internal network and the public Internet.
+
+## 2nd Topic of 1st project: DNS
+* **Domain Name System** (DNS) is a decentralized system that converts human-readable domain names into IP addresses, allowing computers to communicate with each other.
+* DNS is essentially a translator between what people want and what a network needsto make that happen.
+* The DNS servers store and manage the mapping of domain names to IP addresses, and respond to DNS queries from clients, such as web browsers.
+* In the reverse direction, DNS can also translate an IP address into a fully qualified domain name (FQDN), using what's called a pointer (PTR) request (for a DNS PTR record) or "reverse lookup". This can be important to technical folks, but these requests are not as commonly seen by regular people running their browsers and other applications.
