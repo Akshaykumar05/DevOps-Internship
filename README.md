@@ -1,4 +1,4 @@
-# DevOps-Internship
+# DevOps-Internship at IoTIoT
 This repo will contain internship related projects and content.
 
 ## Project-1: Linux Networking Firewalls and Routing
