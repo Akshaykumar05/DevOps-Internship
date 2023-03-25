@@ -23,8 +23,8 @@ Overall, firewalls are an important part of a defense-in-depth security strategy
 ### Firewall
 * A Firewall is a network security device that monitors and filters incoming and outgoing network traffic based on an organization's previously established security policies. At its most basic, a firewall is essentially the barrier that sits between a private internal network and the public Internet.
 
-### Iptables
-### Nftables
+### Iptables.
+### Nftables.
 
 ## 2nd Topic of 1st project: DNS
 * **Domain Name System** (DNS) is a decentralized system that converts human-readable domain names into IP addresses, allowing computers to communicate with each other.
