@@ -27,6 +27,10 @@ Overall, firewalls are an important part of a defense-in-depth security strategy
 ### Nftables.
 
 ## 2nd Topic of 1st project: DNS
+### Documentation on
+1. Why do we use DNS & features of DNS
+2. How are all the features in DNS implemented
+
 * **Domain Name System** (DNS) is a decentralized system that converts human-readable domain names into IP addresses, allowing computers to communicate with each other.
 * DNS is essentially a translator between what people want and what a network needsto make that happen.
 * The DNS servers store and manage the mapping of domain names to IP addresses, and respond to DNS queries from clients, such as web browsers.
