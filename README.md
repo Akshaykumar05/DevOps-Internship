@@ -1,7 +1,8 @@
 # DevOps-Internship at IoTIoT
 This repo will contain internship related projects and content.
 
-## Project-1: Linux Networking Firewalls and Routing
+# Project-1: 
+## Topic-1: Linux Networking Firewalls and Routing
 ### What is Firewall?
 * A firewall is a network security system that monitors and controls the incoming and outgoing network traffic based on predetermined security rules. Firewalls act as barriers between a trusted internal network and an untrusted external network such as the internet. They are used to protect a network from unauthorized access, malware, and other network security threats.
 
@@ -43,7 +44,7 @@ We use firewall because there are always new cybersecurity threats.which can imp
 ### Iptables.
 ### Nftables.
 
-## 2nd Topic of 1st project: DNS
+## Topic-2: DNS
 ### Documentation on
 1. Why do we use DNS & features of DNS
 2. How are all the features in DNS implemented.
@@ -54,3 +55,9 @@ We use firewall because there are always new cybersecurity threats.which can imp
 We use firewall because there are always new cybersecurity threats.which can impact both large companies and individuals. For every improved steps in cybersecurity take ten. And while you can always try to assess to website's safety, a firewall casts a much wider security net.work needsto make that happen.
 * The DNS servers store and manage the mapping of domain names to IP addresses, and respond to DNS queries from clients, such as web browsers.
 * In the reverse direction, DNS can also translate an IP address into a fully qualified domain name (FQDN), using what's called a pointer (PTR) request (for a DNS PTR record) or "reverse lookup". This can be important to technical folks, but these requests are not as commonly seen by regular people running their browsers and other applications.
+
+## Topic-3: LOAD BALANCING
+### Documentation on
+1. Why do we use Load balancer & features of Load balancer
+2. How are all the features in Load balancer implemented in Linu
+
