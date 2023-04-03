@@ -61,3 +61,9 @@ We use firewall because there are always new cybersecurity threats.which can imp
 1. Why do we use Load balancer & features of Load balancer
 2. How are all the features in Load balancer implemented in Linu
 
+
+
+![image](https://user-images.githubusercontent.com/114390890/229454291-0ec600d2-4bad-4a91-bc64-75b01abc8aa2.png)
+
+
+
