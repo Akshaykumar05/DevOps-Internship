@@ -73,6 +73,15 @@ We use firewall because there are always new cybersecurity threats.which can imp
 * Load balancer provides redundancy and automatic recovery mechanism, which solves the issue of availability.
 * Load balancing also offers economic solutions. It’s cheaper and easier to add a small node to a pool than to upgrade and replace a large one, which solves the issue of economy.
 
+## Features of Load Balancer
+* Manages traffic spikes and prevents spikes on a single server
+* Minimizes user request response time
+* Ensures performance and reliability of computing resources, both physical and virtual
+* Adds redundancy and resilience to computing environments
+* Load balancing delivers the flexibility to add and remove servers as demand dictates.
+* The ability to offload the encryption and decryption process from the servers i.e. SSL termination.
+* The ability to cache frequently requested content.
+
 ![image](https://user-images.githubusercontent.com/114390890/229454291-0ec600d2-4bad-4a91-bc64-75b01abc8aa2.png)
 
 
