@@ -4,8 +4,10 @@ This repo will contain internship related projects and content.
 # Project-1: Linux Networking Firewall and Routing
 # Project-2: DevOps - Kubernetes Clustering
 * Build and maintain cluster using kubernetes / docker / Linux HA to deploy applications on the cluster and ensure HA.
+# Project-3: DevOps - Building a k3s cluster
+* Building a cluster using lightweight kubernetes to optimise the server and improve performance.
 
-## Topic-1: Linux Networking Firewalls and Routing
+## Project-1, Topic-1: Linux Networking Firewalls and Routing
 ### What is Firewall?
 * A firewall is a network security system that monitors and controls the incoming and outgoing network traffic based on predetermined security rules. Firewalls act as barriers between a trusted internal network and an untrusted external network such as the internet. They are used to protect a network from unauthorized access, malware, and other network security threats.
 
@@ -84,5 +86,13 @@ We use firewall because there are always new cybersecurity threats.which can imp
 
 ![image](https://user-images.githubusercontent.com/114390890/229454291-0ec600d2-4bad-4a91-bc64-75b01abc8aa2.png)
 
+## Load balancer implementation in Linux
+* **Nginx**: Nginx is a well-liked reverse proxy and web server that may function as a load balancer. It offers excellent performance and scalability and supports a variety of load-balancing techniques, including IP hash and round-robin.
+
+* **HAProxy** - HAProxy is a popular open-source load balancer and proxy server that supports TCP and HTTP-based protocols. HAProxy provides advanced features such as content-based routing, session persistence, health checking, and SSL acceleration.
+
+* **Pound** - Pound is a lightweight and flexible reverse proxy and load balancer that supports HTTP and HTTPS protocols. Pound provides features such as URL rewriting, SSL offloading, and access control.
+
+* **AWS Elastic Load Balancer** (ELB): AWS ELB is a load balancer offered by Amazon Web Services (AWS) that can be used to distribute traffic across multiple Amazon Elastic Compute Cloud (EC2) instances
 
 
