@@ -2,7 +2,8 @@
 This repo will contain internship related projects and content.
 
 # Project-1: Linux Networking Firewall and Routing
-# Project-2: 
+# Project-2: DevOps - Kubernetes Clustering
+* Build and maintain cluster using kubernetes / docker / Linux HA to deploy applications on the cluster and ensure HA.
 
 ## Topic-1: Linux Networking Firewalls and Routing
 ### What is Firewall?
