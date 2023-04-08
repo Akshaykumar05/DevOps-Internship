@@ -1,7 +1,9 @@
 # DevOps-Internship at IoTIoT
 This repo will contain internship related projects and content.
 
-# Project-1: 
+# Project-1: Linux Networking Firewall and Routing
+# Project-2: 
+
 ## Topic-1: Linux Networking Firewalls and Routing
 ### What is Firewall?
 * A firewall is a network security system that monitors and controls the incoming and outgoing network traffic based on predetermined security rules. Firewalls act as barriers between a trusted internal network and an untrusted external network such as the internet. They are used to protect a network from unauthorized access, malware, and other network security threats.
@@ -57,11 +59,18 @@ We use firewall because there are always new cybersecurity threats.which can imp
 * In the reverse direction, DNS can also translate an IP address into a fully qualified domain name (FQDN), using what's called a pointer (PTR) request (for a DNS PTR record) or "reverse lookup". This can be important to technical folks, but these requests are not as commonly seen by regular people running their browsers and other applications.
 
 ## Topic-3: LOAD BALANCING
+
 ### Documentation on
 1. Why do we use Load balancer & features of Load balancer
 2. How are all the features in Load balancer implemented in Linu
+## Load Balancer
+* Load balancing is the process of distributing a set of tasks over a set of resources, with the aim of making their overall processing more efficient. It acts as a reverse proxy and distributes network or application traffic across a number of servers. Load balancers are used to increase capacity (concurrent users) and reliability of applications.
 
-
+## Why do we use Load Balancer?
+* There are three important problem domains that load balancers were made to address: performance, availability, and economy.
+* When scaling out or distributing the computational load, a load balancer can help distribute the workload among an array of servers, while also allowing capacity to be added or removed as necessary, which solves the issue of performance.
+* Load balancer provides redundancy and automatic recovery mechanism, which solves the issue of availability.
+* Load balancing also offers economic solutions. It’s cheaper and easier to add a small node to a pool than to upgrade and replace a large one, which solves the issue of economy.
 
 ![image](https://user-images.githubusercontent.com/114390890/229454291-0ec600d2-4bad-4a91-bc64-75b01abc8aa2.png)
 
