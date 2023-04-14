@@ -96,7 +96,7 @@ We use firewall because there are always new cybersecurity threats.which can imp
 
 * **AWS Elastic Load Balancer** (ELB): AWS ELB is a load balancer offered by Amazon Web Services (AWS) that can be used to distribute traffic across multiple Amazon Elastic Compute Cloud (EC2) instances
 
-### Quality of Servise (in Linux)
+## Topic:4- Quality of Servise (in Linux)
 * Documentation on
 1. Why do we use QOS & features of QOS
 2. How are all the features in QOS implemented
