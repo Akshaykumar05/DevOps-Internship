@@ -100,3 +100,5 @@ We use firewall because there are always new cybersecurity threats.which can imp
 * Documentation on
 1. Why do we use QOS & features of QOS
 2. How are all the features in QOS implemented
+
+* Quality of Service (QoS) is a way of managing and prioritizing network traffic to ensure that important data gets sent and received faster and more reliably than less important data.
