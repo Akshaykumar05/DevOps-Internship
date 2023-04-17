@@ -102,3 +102,7 @@ We use firewall because there are always new cybersecurity threats.which can imp
 2. How are all the features in QOS implemented
 
 * Quality of Service (QoS) is a way of managing and prioritizing network traffic to ensure that important data gets sent and received faster and more reliably than less important data.
+
+### Why do we use QoS?
+* Quality of Service (QoS) is a technology we used in computer networks to ensure that network resources are used optimally and that the most important network traffic is given priority over less important traffic. QoS is an important aspect of network management and is especially critical for large networks where many devices are competing for limited network resources.
+* Using a QoS-enabled network, network administrators can prioritize different types of traffic based on their importance, assign specific amounts of bandwidth to specific types of traffic, and control the flow of traffic to reduce network congestion. This helps to ensure that the network provides a high quality of service to its users, even during periods of high demand.
