@@ -106,3 +106,17 @@ We use firewall because there are always new cybersecurity threats.which can imp
 ### Why do we use QoS?
 * Quality of Service (QoS) is a technology we used in computer networks to ensure that network resources are used optimally and that the most important network traffic is given priority over less important traffic. QoS is an important aspect of network management and is especially critical for large networks where many devices are competing for limited network resources.
 * Using a QoS-enabled network, network administrators can prioritize different types of traffic based on their importance, assign specific amounts of bandwidth to specific types of traffic, and control the flow of traffic to reduce network congestion. This helps to ensure that the network provides a high quality of service to its users, even during periods of high demand.
+
+### The Features of QoS are:
+Classification of incoming traffic to traffic classes, based on attributes, including:
+
+1. Device Configuration
+2. Ingress interface
+3. Packet content
+4. Combination of these attributes
+
+* **Traffic Classification**: Classifies each incoming packet as belonging to a specific traffic flow, based on the packet contents and/or the port. The classification is done by ACL (Access Control List), and only traffic that meets the ACL criteria is subject to CoS or QoS classification.
+
+* **Assignment to Software Queues**: Assigns incoming packets to forwarding queues. Packets are sent to a particular queue for handling as a function of the traffic class to which they belong.
+
+Other Traffic Class-Handling Attribute: Applies QoS mechanisms to various classes, including bandwidth management.
