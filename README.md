@@ -129,4 +129,10 @@ Other Traffic Class-Handling Attribute: Applies QoS mechanisms to various classe
 5. **Policy-based management**: QoS provides policy-based management, allowing network administrators to define and enforce policies that govern how network resources are allocated and how traffic is managed.
 6. **Latency and jitter control**: QoS can help reduce network latency and jitter using methods such as Priority Queuing (PQ) or Class-Based Weighted Fair Queuing (CBWFQ).
 
-
+## How are all the features in QOS implemented
+1. **Traffic prioritization**: Once traffic has been classified, QoS can prioritize certain types of traffic over others based on their importance or criticality. This can be done using methods such as Weighted Fair Queuing (WFQ) or Low Latency Queuing (LLQ)
+2. **Traffic classification**: QoS begins with the classification of network traffic into different categories based on its type, source, destination, or other characteristics. This can be done using protocols such as Differentiated Services Code Point (DSCP) or Class of Service (CoS).
+3. **Congestion management**: QoS can manage network congestion using methods such as Random Early Detection (RED) or Explicit Congestion Notification (ECN).
+4. **Bandwidth management**: QoS can allocate and control bandwidth resources among different types of traffic using methods such as Class-Based Shaping (CBS) or Class-Based Policing (CBP).
+5. **Policy-based management**: QoS provides policy-based management, allowing network administrators to define and enforce policies that govern how network resources are allocated and how traffic is managed.
+6. **Latency and jitter control**: QoS can help reduce network latency and jitter using methods such as Priority Queuing (PQ) or Class-Based Weighted Fair Queuing (CBWFQ).
