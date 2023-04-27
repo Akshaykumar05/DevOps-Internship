@@ -62,6 +62,9 @@ We use firewall because there are always new cybersecurity threats.which can imp
 * The DNS servers store and manage the mapping of domain names to IP addresses, and respond to DNS queries from clients, such as web browsers.
 * In the reverse direction, DNS can also translate an IP address into a fully qualified domain name (FQDN), using what's called a pointer (PTR) request (for a DNS PTR record) or "reverse lookup". This can be important to technical folks, but these requests are not as commonly seen by regular people running their browsers and other applications.
 
+### BIND DNS server
+### Dnsmasq DNS server
+
 ## Topic-3: LOAD BALANCING
 
 ### Documentation on
