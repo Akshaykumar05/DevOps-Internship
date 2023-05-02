@@ -139,3 +139,8 @@ Other Traffic Class-Handling Attribute: Applies QoS mechanisms to various classe
 4. **Bandwidth management**: QoS can allocate and control bandwidth resources among different types of traffic using methods such as Class-Based Shaping (CBS) or Class-Based Policing (CBP).
 5. **Policy-based management**: QoS provides policy-based management, allowing network administrators to define and enforce policies that govern how network resources are allocated and how traffic is managed.
 6. **Latency and jitter control**: QoS can help reduce network latency and jitter using methods such as Priority Queuing (PQ) or Class-Based Weighted Fair Queuing (CBWFQ).
+
+### Document your hands-on experience with setting up and configuring different load balancers in the issues
+1. HA Proxy
+2. Nginx
+3. Traefik
