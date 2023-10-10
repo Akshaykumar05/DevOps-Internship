@@ -157,3 +157,20 @@ Other Traffic Class-Handling Attribute: Applies QoS mechanisms to various classe
 * Has the provision to add roles and permissions.
 * We can log the time that is spent on the bugs/issues.
 * Provides the search funtionality when you want to look for some existing information.
+
+## INODE number
+## IP Address, Private and Public
+## Class of IPs
+## ARP/MAC Address
+## rwx- file and directories
+## UGO -?
+
+## Link: Hard link and Soft link (difference and work?)
+## cat, less, more, grep (read difference)
+## Linux booting (6 types)
+## Prepare a chart of RHEL version (6 Vs 7 and 8 Vs 9)
+## SUID and GUID (read permission)
+## ls search its 10 commands with "-" with their use.
+
+
+
