@@ -144,3 +144,16 @@ Other Traffic Class-Handling Attribute: Applies QoS mechanisms to various classe
 1. HA Proxy
 2. Nginx
 3. Traefik
+
+# NIC Internship
+## REDMINE
+* OpenSource Project Management tool.
+* It is written in Ruby language.
+* It has no cost as its free.
+* It is build in wiki and also supports community forums.
+* It has option to upload with latest updates. Even you can publish any if you want.
+* Multiple projects can be created and we can manage them in one tool.
+* It provide the feature for the visual graps and charts which helps to visualise the projects progress.
+* Has the provision to add roles and permissions.
+* We can log the time that is spent on the bugs/issues.
+* Provides the search funtionality when you want to look for some existing information.
