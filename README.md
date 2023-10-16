@@ -159,6 +159,10 @@ Other Traffic Class-Handling Attribute: Applies QoS mechanisms to various classe
 * Provides the search funtionality when you want to look for some existing information.
 
 ## INODE number
+* The inode (index node) is a data structure in a Unix-style file system that describes a file-system object such as a file or a directory. Each inode stores the attributes and disk block locations of the object's data.
+* When a file is created on a system, a file name and Inode number is assigned to it. Generally, to access a file, a user uses the file name but internally file name is first mapped with respective Inode number stored in a table.
+* **Note**: Inode doesn't contain the file name. Reason for this is to maintain hard-links for the files. When all the other information is separated from the file name then only we can have various file names pointing to the same Inode.
+
 ## IP Address, Private and Public
 ## Class of IPs
 ## ARP/MAC Address
