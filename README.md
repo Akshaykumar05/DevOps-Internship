@@ -176,10 +176,15 @@ Other Traffic Class-Handling Attribute: Applies QoS mechanisms to various classe
 ## SUID and GUID (read permission)
 ## ls search its 10 commands with "-" with their use.
 
+#### Non Tech Skills
 ### 6 factors to follow in Corporate
 1. Responsibilty
 2. Communication Skills
 3. Ability to learn
 4. Research skills
 5. Quality of work
+
+### DSR and DPT
+* DSR (Daily Status Report)
+* DPS (Daily Planned Report)
 
